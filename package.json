@@ -9,7 +9,9 @@
   "author": "Satyen",
   "license": "ISC",
   "dependencies": {
-    "jest": "^26.4.2"
+    "jest": "^26.4.2",
+    "sonarqube-scanner": "^2.7.0",
+    "winston": "^3.3.3"
   },
   "devDependencies": {
     "eslint": "^7.8.1",
